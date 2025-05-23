@@ -1,6 +1,6 @@
 package com.accessmodifier;
 
-public class privateMod{
+ class privateMod{
 	
 	//access with in same class
 	
